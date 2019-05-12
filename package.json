@@ -1,0 +1,24 @@
+{
+  "name": "douban-movie",
+  "version": "1.0.0",
+  "description": "koa demo",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkwkwkwkwk/douban-movie.git"
+  },
+  "keywords": [
+    "movie",
+    "trailer"
+  ],
+  "author": "wangkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wkwkwkwkwk/douban-movie/issues"
+  },
+  "homepage": "https://github.com/wkwkwkwkwk/douban-movie#readme"
+}
